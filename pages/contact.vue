@@ -5,13 +5,13 @@
     <h1 class="text-[1rem] uppercase">&gt;Contact</h1>
     <div class="mt-[20px] flex flex-col">
       <a class="text-center" href="mailto:hi.unkuz@gmail.com"
-        >hi.unkuz@gmail.com</a
+        >hi.iluzionn@gmail.com</a
       >
       <a class="text-center" href="tel:+84888388859">+84 888388859</a>
     </div>
     <div class="mt-[10px] flex gap-[40px]">
       <NuxtLink
-        to="https://github.com/unkuz"
+        to="https://github.com/illuzionm"
         title="Github"
         target="_blank"
         external
@@ -22,7 +22,7 @@
         />
       </NuxtLink>
       <NuxtLink
-        to="https://www.instagram.com/unkuz"
+        to="https://www.instagram.com/illuzion__z"
         title="Instagram"
         target="_blank"
         external
@@ -32,7 +32,7 @@
       </NuxtLink>
 
       <NuxtLink
-        to="https://www.youtube.com/@unkuz."
+        to="https://www.youtube.com/@illuzionm"
         title="Yotube"
         target="_blank"
         external

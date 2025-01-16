@@ -63,9 +63,7 @@ watch(appReady, async (val) => {
   }
 });
 
-const otherPage = computed(() =>
-  ["/linhxinhgai", "/linhxinhgai/"].includes(route.fullPath)
-);
+
 </script>
 
 <template>
@@ -78,7 +76,7 @@ const otherPage = computed(() =>
       ref="pre"
       class="flex !h-screen !w-screen select-none items-center justify-center font-au text-[2.5rem] tracking-widest"
     >
-      {{ otherPage ? "CHOI OI" : "UNKUZ" }}
+      {{ "ILLUZION" }}
     </div>
     <div ref="main" class="mx-auto hidden w-full px-[20px] md:px-0">
       <Header v-if="!otherPage" />

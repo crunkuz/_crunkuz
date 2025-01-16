@@ -14,7 +14,7 @@ const magicName = (selectedPath: string, routePath: string, name: string) =>
     class="fixed left-0 top-0 z-10 flex w-full items-center justify-between bg-[#fdfdfd0e] px-[20px] backdrop-blur-[5px] dark:bg-black sm:px-[100px] sm:pt-[50px]"
   >
     <div
-      title="Unkuz"
+      title="illuzion"
       class="flex items-center gap-[10px] py-[20px] font-au sm:py-0"
     >
       <NuxtLink to="/" replace>

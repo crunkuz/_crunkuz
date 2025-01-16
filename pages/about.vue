@@ -5,7 +5,7 @@
     <h1 class="text-[1rem] uppercase">&gt;About</h1>
     <div class="">
       <p class="text-balance text-justify indent-8">
-        &gt;Unkuz, also known as Nguyen Ba Cuong, is a creative web developer
+        &gt;illuzion, also known as Nguyen Ba Cuong, is a creative web developer
         with 3+ years of experience working in building website. Proficient in
         HTML, CSS, JavaScript, TypeScript, Python,...: plus modern libraries,
         frameworks. Well-versed in requirements aith an in-depth knowledge. I'm
