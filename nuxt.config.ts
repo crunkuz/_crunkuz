@@ -41,7 +41,7 @@ export default defineNuxtConfig({
         },
         {
           name: "description",
-          content: "Unkuz - Web developer based in Vietnam",
+          content: "Illuzion - Web developer based in Vietnam",
         },
       ],
     },
@@ -49,6 +49,6 @@ export default defineNuxtConfig({
     layoutTransition: { name: "layout", mode: "default" },
   },
   site: {
-    name: "Unkuz",
+    name: "Illuzion",
   },
 });

@@ -1,8 +1,8 @@
 export const signature = () =>
   console.log(
-    "%c              Developed by Unkuz              ",
+    "%c              Developed by Illuzion              ",
     "background: black; color: rgb(52 208 255);",
-    "https://github.com/unkuz/"
+    "https://github.com/illuzionn/"
   );
 
 export const rmTextNodeHelper = (nodes: NodeListOf<ChildNode>): ChildNode[] => {
