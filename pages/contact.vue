@@ -21,25 +21,6 @@
           class="!size-[17px] [&>path]:!fill-transparent dark:[&>path]:stroke-white"
         />
       </NuxtLink>
-      <NuxtLink
-        to="https://www.instagram.com/illuzion__z"
-        title="Instagram"
-        target="_blank"
-        external
-        class="cursor-pointer"
-      >
-        <Instagram_invert class="!size-[17px]" />
-      </NuxtLink>
-
-      <NuxtLink
-        to="https://www.youtube.com/@illuzionm"
-        title="Yotube"
-        target="_blank"
-        external
-        class="cursor-pointer"
-      >
-        <Youtube class="!size-[17px]" />
-      </NuxtLink>
     </div>
   </div>
 </template>
